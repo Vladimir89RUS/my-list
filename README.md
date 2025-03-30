@@ -3,10 +3,10 @@
 ## Меня зовут Владимир!
 
 ### Я изучаю Python в Нетологии.
-
+![ikon11](https://github.com/user-attachments/assets/45eadfca-f701-4310-b734-dc43e93a7949)
 **Похоже мне не удастся стать разработчиком и сменить свою работу**
 
 _но я попробую_
 
 
-![ikon11](https://github.com/user-attachments/assets/45eadfca-f701-4310-b734-dc43e93a7949)
+
